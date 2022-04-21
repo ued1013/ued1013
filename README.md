@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![ued1013's GitHub stats](https://github-readme-stats.vercel.app/api?username=ued1013&theme=vue-dark&show_icons=true)](https://github.com/ued1013/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ued1013&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/ued1013/github-readme-stats)
+
 <!--
 **ued1013/ued1013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
