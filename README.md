@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Takahiro Ueda
+# Hi there 👋   I'm Takahiro Ueda
 
 -🎓first year master's student
 -📖I'm currently learning Self-Supervised Learning
