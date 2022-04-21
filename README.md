@@ -1,5 +1,6 @@
 # Hi there 👋 I'm Takahiro Ueda
 
+-🎓first year master's student
 ![ued1013's GitHub stats](https://github-readme-stats.vercel.app/api?username=ued1013&theme=vue-dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ued1013&theme=vue-dark&show_icons=true&layout=compact)
 
